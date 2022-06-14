@@ -4,3 +4,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=choomhub&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![choom's GitHub stats](https://github-readme-stats.vercel.app/api?username=choomhub&show_icons=true&theme=radical)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/374220001743208459)](https://discord.com/users/374220001743208459)
