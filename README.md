@@ -5,4 +5,4 @@
 
 ![choom's GitHub stats](https://github-readme-stats.vercel.app/api?username=choomhub&show_icons=true&theme=radical)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/374220001743208459)](https://discord.com/users/374220001743208459)
+[![Discord Presence](https://lanyard.cnrad.dev/api/801146943568478228)](https://discord.com/users/801146943568478228)
